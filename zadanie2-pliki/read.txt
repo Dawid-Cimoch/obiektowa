@@ -1,0 +1,5 @@
+Dawid Cimoch 22 0.66
+Michal Kowalski 44 0.76
+Olga Prowaski 24 0.84
+Marcin Kondrad 56 0.44
+Filip Ogoiski 32 0.84
